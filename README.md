@@ -31,4 +31,4 @@ CS 320: Software Testing, Automation, and Quality Assurance
 
   - Usability should be a key consideration during the design process, aiming to create software that is intuitive and user-friendly. This can be achieved by incorporating user experience (UX) principles, conducting usability testing, and iterating on the design based on user feedback.
 
-  To provide a clear representation of the software's structure and design choices, it is valuable to create design documents such as architecture diagrams, component diagrams, and class diagrams. These documents serve to document and communicate the software's design effectively.
+  - To provide a clear representation of the software's structure and design choices, it is valuable to create design documents such as architecture diagrams, component diagrams, and class diagrams. These documents serve to document and communicate the software's design effectively.
